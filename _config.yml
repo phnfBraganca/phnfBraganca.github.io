@@ -3,5 +3,3 @@ description: This is my Jekyll site hosted on Github.
 baseurl: ""
 url: "https://phnfbraganca.github.io"
 theme: "minimal-mistakes-jekyll"
-plugins:
-  - jekyll-seo-tag
