@@ -1,0 +1,5 @@
+title: My Portfolio Site
+description: This is my Jekyll site hosted on Github.
+baseurl: ""
+url: "https://phnfbraganca.github.io"
+theme: minima
