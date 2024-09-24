@@ -3,9 +3,9 @@ layout: default
 title: Welcome to My Jekyll Site
 ---
 
-## Hello, World!
+## Welcome!
 
 - [My Projects](/projects/)
 - [About Me](/about/)
 
-This is my awesome Jekyll site hosted on GitHub Pages.
+This is a website for my portfolio.
