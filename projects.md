@@ -8,7 +8,7 @@ permalink: /projects/
 
 Here are some of my projects I work on:
 
-![Project Image](https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/pt_BR/games/switch/c/cobra-kai-2-dojos-rising-switch/hero)
+![Project Image](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1681870/capsule_616x353.jpg?t=1669645937)
 
 **Project Name:** Cobra Kai 2: Dojos Rising
 
