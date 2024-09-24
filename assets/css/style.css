@@ -1,9 +1,21 @@
 /* style.css */
+:root {
+    --primary-color: #3498db;
+    --secondary-color: #2ecc71;
+    --background-color: #f4f4f4;
+    --text-color: #333;
+}
+
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    color: #333;
+    font-family: 'Roboto', sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-color);
     padding: 20px;
+}
+
+h1, h2, h3 {
+    font-weight: 700;
+    color: var(--primary-color)
 }
 
 header {
@@ -14,7 +26,7 @@ header {
 nav a {
     margin: 0 10px;
     text-decoration: none;
-    color: #007bff;
+    color: var(--secondary-color)
 }
 
 main {
@@ -25,4 +37,39 @@ main {
 footer {
     text-align: center;
     margin-top: 40px;
+}
+
+.projects{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.project {
+    background-color: cornsilk;
+    padding: 15px;
+    border: 1px solid #ddd;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+.project img {
+    transition: transform 0.3s ease;
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.project img:hover {
+    transform: scale(1.05);
+}
+
+a:hover {
+    color: #007bff;
+    text-decoration: underline;
+}
+
+.project h3 {
+    font-size: 1.5em;
+    margin-top: 10px;
 }
