@@ -23,7 +23,7 @@ title: Welcome to My Portfolio
         </div>
     </main>
     <footer>
-        <p>&copy; 2024 {{ site.title }} | Contact: paulohnfbraganca@gmail.com</p> 
+        <p>&copy; 2024 {{ site.title }} | Contact: paulohnfbraganca@gmail.com or <a href="https://www.linkedin.com/in/paulo-henrique-braganca-9a7197131/" target="_blank">My LinkedIn Page</a></p> 
     </footer>
 </body>
 </html>

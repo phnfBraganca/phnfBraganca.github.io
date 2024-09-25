@@ -25,7 +25,7 @@ permalink: /projects/
         <a href="https://phbraganca.itch.io/" target="_blank">
             <img src="https://i.pcmag.com/imagery/reviews/044PXMK6FlED1dNwOXkecXV-4.fit_scale.size_760x427.v1597354669.jpg" alt="Project Image">
         </a>
-        <h3>My Itch.io</h3>
+        <h3>My Itch.io Page</h3>
         <p>My itch.io, games I created while participating in game jams. Contributing to whatever the team needed, improving my skills.</p>
     </div>
 </div>
