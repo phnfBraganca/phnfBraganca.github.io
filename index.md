@@ -1,5 +1,5 @@
 ---
-layout: default
+layout:
 title: Welcome to My Portfolio
 ---
 <div class="hero">
