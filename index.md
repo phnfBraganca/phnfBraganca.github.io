@@ -1,8 +1,6 @@
 ---
-layout:
 title: Welcome to My Portfolio
 ---
-<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
@@ -14,7 +12,7 @@ title: Welcome to My Portfolio
 </head>
 <body>
     <header>
-        <h1>{{ site.title }}</h1>
+        <h1>Paulo Henrique N F Bragança</h1>
     </header>
     <main>
         <div class="hero">
