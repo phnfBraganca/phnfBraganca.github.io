@@ -95,8 +95,6 @@ a:hover {
 .btn {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #007bff;
-    color: white;
     border-radius: 5px;
     text-align: center;
     text-decoration: none;
